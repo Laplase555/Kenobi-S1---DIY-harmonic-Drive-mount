@@ -1,6 +1,4 @@
 # Kenobi-S1---DIY-harmonic-Drive-
  DIY harmonic Drive mount
 
-
-https://github.com/Laplase555/Kenobi-S1---DIY-harmonic-Drive-/assets/119592628/c7c7ac77-e661-4964-9fb8-b5bb796699ff
-
+![Untitled](https://github.com/Laplase555/Kenobi-S1---DIY-harmonic-Drive-mount/assets/119592628/b749c368-6909-451a-959e-38f9c6b255ab)
